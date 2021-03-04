@@ -16,5 +16,4 @@
 16. Napisz program, który wczyta ze standardowego wejścia liczbę całkowitą n, następnie wyświetli na wyjściu tabliczkę mnożenia o wymiarach nxn.
 17. Napisz program, który wczyta ze standardowego wejścia dwie liczby naturalne n i m, a następnie wyświetli szachownicę o rozmiarze nxm, w taki sposób, by wystepowały w niej na przemian znaki '#' oraz 'o'.
 18. Napisz program, który wczyta od użytkownika liczbę całkowitą n, a następnie wczyta n znaków(liter). 
-    Program ma wyświetlić skróconą formę wczytanego łańcucha w taki sposób, że jeżeli obok siebie wystąpiły przynajmniej 3 te same litery, to zastępujemy je jedną literą i liczbą jej wystąpień. Przykład: AAABBCCCCD zastąpimy przez: A3BBC4D.  
-19. 
+    Program ma wyświetlić skróconą formę wczytanego łańcucha w taki sposób, że jeżeli obok siebie wystąpiły przynajmniej 3 te same litery, to zastępujemy je jedną literą i liczbą jej wystąpień. Przykład: AAABBCCCCD zastąpimy przez: A3BBC4D.

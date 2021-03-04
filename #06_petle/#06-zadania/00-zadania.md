@@ -1,7 +1,7 @@
 01. Napisać program, który wyświetli co czwartą liczbę dwucyfrową.
 02. Napisz program, w którym wczytujemy 5 liczb wprowadzonych przez użytkownika do tablicy. Następnie wszystkie liczby należy podnieść do kwadratu i wyświetlić.
 03. Napisać program, który wyświetli liczby naturalne z przedziału od 1 do 100. 
-04. Napisz program, który wczyta ze standardowego wejścia dwie liczby całkowite n i m, a następnie wyświetli wszystkie całkowite z przedziału domkniętego .
+04. Napisz program, który wczyta ze standardowego wejścia dwie liczby całkowite n i m, a następnie wyświetli wszystkie całkowite z przedziału domkniętego  [n, m].
 05. Napisać program, który wyświetli liczby podzielne przez 3 z przedziału od 1 do 100.
 06. Napisać program, który będzie wczytywał od użytkownika liczby całkowite. Jeśli zostanie wprowadzona liczba zero, program ma wyświetlić sumę wprowadzonych liczb i się zakończyć.
 07. Napisz program, który odczytuje dany wyraz z konsoli tak długo, aż natrafi na poprawnie wprowadzone hasło. Hasło to "Dominik".
