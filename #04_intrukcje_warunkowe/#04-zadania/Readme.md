@@ -22,3 +22,4 @@
 22. Napisz program, który wczyta współrzędne dwóch punktów na płaszczyźnie (x1, y1, x2, y2). Wczytane punkty stanowią przeciwległe „rogi” prostokąta, którego dwa boki są prostopadłe do osi OX. Program powinien wypisać pole prostokąta.
 23. Napisz program, który pobierze od użytkownika rok, a następnie wyświetli wiek, do którego ten rok przynależy. Rok ujemny traktujemy jako rok przed naszą erą i dodajemy do wartości wieku napis ”p.n.e.” Zakładamy, że podany zostanie niezerowy rok. Uwagi: Pierwszy wiek n.e. miał miejsce w latach 1 - 100 n.e. Pierwszy wiek p.n.e. miał miejsce w latach 100 - 1 p.n.e. Po 1 roku p.n.e. nastąpił 1 rok n.e.
 Przykład: 2015 − > 21, -101 − > 2 p.n.e.
+24. Napisz program, który sprawdzi czy z trzech podanych długości boków można zbudować trójkąt, a następnie obliczy jego pole. (wzór Herona)
